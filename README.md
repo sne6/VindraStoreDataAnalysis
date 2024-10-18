@@ -6,6 +6,7 @@ Vrinda Store aims to create an annual sales report for 2022 to gain insights int
 - Data Processing
 - Data Analysis
 - Data Visualization
+  
 This report will address the following:
 - A comparative analysis of sales and orders using a bar chart
 - Identification of the month with the highest sales and orders
