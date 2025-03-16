@@ -1,5 +1,5 @@
 # VrindaStoreDataAnalysis
-Objective
+Objective:
 Vrinda Store aims to create an annual sales report for 2022 to gain insights into customer behavior and enhance sales performance in 2023.The report will encompass:
 - Raw Data
 - Data Cleaning
